@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: package-template
+Version: 0.1dev
+Summary: defaul template for package
+Home-page: https://github.com/koder-ua
+Author: koder
+Author-email: koder.mail@gmail.com
+License: BSD
+Description: default template for package
+Platform: UNKNOWN
